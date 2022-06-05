@@ -29,7 +29,7 @@ export const SearchInput = ({ mainColor, onSearch} : Props) => {
           <input
             type="text"
             className={styles.input}
-            placeholder="Digite o nome do produto"
+            placeholder="Pesquisar"
             onFocus={() => setFoucused(true)}
             onBlur={() => setFoucused(false)}
             onKeyUp={handleKeyUp}
