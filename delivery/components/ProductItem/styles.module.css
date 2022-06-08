@@ -7,7 +7,6 @@
 
 .head {
   height: 90px;
-  background-color: rgba(251, 148, 0, 0.08);
 }
 
 .info {
@@ -40,5 +39,4 @@
   font-size: 15px;
   font-weight: 700;
   line-height: 18px;
-  color: #fb9400;
 }
