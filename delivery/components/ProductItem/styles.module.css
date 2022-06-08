@@ -26,12 +26,14 @@
 
 .info .categoryName {
   font-size: 10px;
+  margin-bottom: 3px;
 }
 
 .info .productName {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 18px;
+  margin-bottom: 3px;
 }
 
 .info .productPrice {

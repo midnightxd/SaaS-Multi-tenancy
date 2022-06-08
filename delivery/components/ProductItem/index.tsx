@@ -1,6 +1,10 @@
 import styles from './styles.module.css';
 
-export const ProductItem = () => {
+type Props = {
+  data:
+}
+
+export const ProductItem = ({}: Props) => {
   return (
     <div className={styles.container}>
       <div className={styles.head}></div>
